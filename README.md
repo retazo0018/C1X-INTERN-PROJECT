@@ -1,6 +1,6 @@
 # Dash Web App
 
-##Components of this Web App
+## Components of this Web App
 * C1x Logo with SOKA INSIGHTS tab
 * ValueBoxes:
   * Total Number of Unique Users
@@ -18,5 +18,4 @@
 * Cookie Age Trend:
   * Percentage age trend of the cookies over the week.
 * Geographic Segmentation:
-  *Displays the geographic positions of all the ShopClues users using their ip address.
-  Based on Click Logs of the week
+  * Displays the geographic positions of all the ShopClues users using their ip address.
