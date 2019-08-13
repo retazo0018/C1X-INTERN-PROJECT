@@ -6,8 +6,8 @@ import pygeoip
 
 def connection():
     try:
-        conn = psycopg2.connect(user="spyfu", password="SpyfuU$3r", host="18.219.13.131", port="5432",
-                                      database="spyfu")
+        conn = psycopg2.connect(user="", password="", host="", port="",
+                                      database="")
         cursor = conn.cursor()
     except (Exception, psycopg2.Error) as error:
         print("Error while connecting to PostgreSQL ", error)
