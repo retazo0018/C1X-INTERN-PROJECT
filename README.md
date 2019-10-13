@@ -21,8 +21,8 @@
   * Displays the geographic positions of all the ShopClues users using their ip address.
 
 * Screenshots of the web app
-![GitHub Logo](/segment1.png)
+  *![GitHub Logo](/segment1.png)
 
-![GitHub Logo](/segment2.png)
+  *![GitHub Logo](/segment2.png)
 
-![GitHub Logo](/segment3.png)
+  *![GitHub Logo](/segment3.png)
